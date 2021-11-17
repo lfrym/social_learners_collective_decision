@@ -1,4 +1,9 @@
-# Repository for "Dynamical-System Model Predicts When Social Learners Impair Collective Performance"
+# Fork of repository for "Dynamical-System Model Predicts When Social Learners Impair Collective Performance"
+
+I forked this repository to play around with lumpyness in the spatial distribution of initial beliefs and learning types. See lumpy_spatial_extension.ipynb, as well as heterogeneity_extention.ipynb for a slight extention allowing for heterogeneity in the alpha parameter.
+
+---
+
 This repository contains code for paper "Dynamical-System Model Predicts When Social Learners Impair Collective Performance"
 
 The paper related to this repository can be found on arXiv: [https://arxiv.org/abs/2104.00770](https://arxiv.org/abs/2104.00770). The code in this repository is written in Python 3, and was last successfully ran in June 2021 using Python 3.7 in Jupyter Labs. Authored by Vicky Chuqiao Yang and Harvey McGuinness. Last updated in June 2021. 
