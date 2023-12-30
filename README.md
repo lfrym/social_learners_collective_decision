@@ -1,6 +1,6 @@
 # Fork of repository for "Dynamical-System Model Predicts When Social Learners Impair Collective Performance"
 
-I forked this repository to play around with lumpyness in the spatial distribution of initial beliefs and learning types. See lumpy_spatial_extension.ipynb, as well as heterogeneity_extention.ipynb for a slight extention allowing for heterogeneity in the alpha parameter.
+I forked this repository to play around with lumpiness in the spatial distribution of initial beliefs and learning types. See lumpy_spatial_extension.ipynb, as well as heterogeneity_extention.ipynb for a slight extention allowing for heterogeneity in the alpha parameter.
 
 ---
 
